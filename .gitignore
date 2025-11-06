@@ -59,6 +59,9 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+Kinethreads/Assets/Scene_Assets.meta
+Kinethreads/Assets/Scene_Assets/
+
 
 # Unity3D generated file on crash reports
 sysinfo.txt
