@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ADAFRUIT_QT_PY")(type "KiCad")(uri "${KIPRJMOD}/exosuit_modular_board.pretty/ADAFRUIT_QT_PY.kicad_sym")(options "")(descr ""))
+  (lib (name "CONN_S3B-EH_JST")(type "KiCad")(uri "${KIPRJMOD}/exosuit_modular_board.pretty/CONN_S3B-EH_JST.kicad_sym")(options "")(descr ""))
+  (lib (name "CONN_S6B-PH-K-S_JST")(type "KiCad")(uri "${KIPRJMOD}/exosuit_modular_board.pretty/CONN_S6B-PH-K-S_JST.kicad_sym")(options "")(descr ""))
+)
