@@ -4,6 +4,7 @@
 #
 .utmp/
 /[Ll]ibrary/
+*/Library/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -59,6 +60,8 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+
+# not free assets
 Kinethreads/Assets/Scene_Assets.meta
 Kinethreads/Assets/Scene_Assets/
 
